@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Things",
+  "baseFontSize": 20,
+  "textFontFamily": "Arial Rounded MT"
 }

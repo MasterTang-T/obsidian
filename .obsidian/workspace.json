@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily note/work note.md",
+                "file": "Day Planners/Day Planner-20221027.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily note/work note.md",
+                "file": "Day Planners/Day Planner-20221027.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily note/work note.md",
+                "file": "Day Planners/Day Planner-20221027.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily note/work note.md"
+                "file": "Day Planners/Day Planner-20221027.md"
               }
+            }
+          },
+          {
+            "id": "c72d6615a230e4dc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -138,6 +146,7 @@
   },
   "active": "170b0e40a0dbae39",
   "lastOpenFiles": [
+    "daily note/work note.md",
     "daily note/life note.md"
   ]
 }
