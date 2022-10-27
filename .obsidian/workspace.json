@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "b9c240abe9357eaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9594d9442b316ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "170b0e40a0dbae39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily note/work note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "111991231270b39c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ddd4346dbd427f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87c908a0592fd365",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba0177c5b6ee59a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54fceb9ed6853b02",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0340c396521328b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1757c7926adf8d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e7feaa1df869217",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily note/work note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffbbb532b84c8582",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily note/work note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3bc70e5f2964424",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a79f2d656c21089",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily note/work note.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "170b0e40a0dbae39",
+  "lastOpenFiles": [
+    "daily note/life note.md"
+  ]
+}
