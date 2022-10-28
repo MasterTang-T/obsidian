@@ -1,5 +1,6 @@
 {
   "vimMode": true,
   "showLineNumber": true,
-  "attachmentFolderPath": "work/gyt/question"
+  "attachmentFolderPath": "work/gyt/question",
+  "promptDelete": false
 }

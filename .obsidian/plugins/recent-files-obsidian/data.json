@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "work note",
-      "path": "daily note/work note.md"
+      "basename": "未完成工作",
+      "path": "work/work notes/未完成工作.md"
+    },
+    {
+      "basename": "工作看板",
+      "path": "work/工作看板.md"
+    },
+    {
+      "basename": "work tasks",
+      "path": "work/work notes/work tasks.md"
+    },
+    {
+      "basename": "已完成的工作",
+      "path": "work/work notes/已完成的工作.md"
+    },
+    {
+      "basename": "20221027",
+      "path": "Day Planners/20221027.md"
     },
     {
       "basename": "20221028",
       "path": "Day Planners/20221028.md"
+    },
+    {
+      "basename": "tasks 插件的用法技巧",
+      "path": "technology/obsidian tips/tasks 插件的用法技巧.md"
+    },
+    {
+      "basename": "life note",
+      "path": "daily note/life note.md"
     }
   ],
   "omittedPaths": [],
