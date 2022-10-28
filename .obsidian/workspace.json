@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/gyt/optimization/index.md",
+                "file": "Day Planners/20221028.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "115db9b629b5b45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily note/work note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/gyt/optimization/index.md",
+                "file": "daily note/work note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/gyt/optimization/index.md",
+                "file": "daily note/work note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/gyt/optimization/index.md"
+                "file": "daily note/work note.md"
               }
             }
           },
@@ -144,14 +157,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "170b0e40a0dbae39",
+  "active": "115db9b629b5b45c",
   "lastOpenFiles": [
-    "work/gyt/member/index.md",
-    "work/gyt/key plan/index.md",
-    "work/gyt/optimization/index.md",
     "Day Planners/20221028.md",
     "daily note/work note.md",
-    "Day Planners/Day Planner-20221027.md",
-    "daily note/life note.md"
+    "daily note/life note.md",
+    "work/gyt/optimization/index.md",
+    "work/gyt/member/index.md",
+    "work/gyt/key plan/index.md",
+    "Day Planners/Day Planner-20221027.md"
   ]
 }
