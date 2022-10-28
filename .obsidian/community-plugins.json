@@ -5,5 +5,9 @@
   "obsidian-tasks-plugin",
   "obsidian-day-planner",
   "cmenu-plugin",
-  "media-extended"
+  "media-extended",
+  "table-editor-obsidian",
+  "obsidian-kanban",
+  "recent-files-obsidian",
+  "privacy-glasses"
 ]
