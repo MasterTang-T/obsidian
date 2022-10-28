@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/20221028.md",
+                "file": "work/gyt/optimization/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/20221028.md",
+                "file": "work/gyt/optimization/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/20221028.md",
+                "file": "work/gyt/optimization/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/20221028.md"
+                "file": "work/gyt/optimization/index.md"
               }
             }
           },
@@ -146,10 +146,12 @@
   },
   "active": "170b0e40a0dbae39",
   "lastOpenFiles": [
+    "work/gyt/member/index.md",
+    "work/gyt/key plan/index.md",
+    "work/gyt/optimization/index.md",
+    "Day Planners/20221028.md",
     "daily note/work note.md",
     "Day Planners/Day Planner-20221027.md",
-    "Day Planners/20221028.md",
-    "daily note/life note.md",
-    "work/gyt/optimization/index.md"
+    "daily note/life note.md"
   ]
 }
