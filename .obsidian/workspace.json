@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,15 +207,15 @@
   },
   "active": "ed703dcc74f6a97f",
   "lastOpenFiles": [
+    "work/gyt/optimization/index.md",
     "work/gyt/member/index.md",
-    "work/work notes/work tasks.md",
+    "Day Planners/20221028.md",
     "Day Planners/20221027.md",
+    "work/work notes/work tasks.md",
     "technology/obsidian tips/Templater.md",
     "work/work notes/已完成的工作.md",
     "work/工作看板.md",
     "technology/obsidian tips/Tasks.md",
-    "technology/obsidian tips/Tanban.md",
-    "technology/obsidian tips/DataView.md",
-    "Day Planners/20221028.md"
+    "technology/obsidian tips/Tanban.md"
   ]
 }

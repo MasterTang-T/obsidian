@@ -6,7 +6,15 @@
     },
     {
       "basename": "index",
+      "path": "work/gyt/optimization/index.md"
+    },
+    {
+      "basename": "index",
       "path": "work/gyt/member/index.md"
+    },
+    {
+      "basename": "20221028",
+      "path": "Day Planners/20221028.md"
     },
     {
       "basename": "20221027",
@@ -35,10 +43,6 @@
     {
       "basename": "DataView",
       "path": "technology/obsidian tips/DataView.md"
-    },
-    {
-      "basename": "20221028",
-      "path": "Day Planners/20221028.md"
     },
     {
       "basename": "index",
