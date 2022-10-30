@@ -19,22 +19,6 @@
             "id": "f451fd18910cd625",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c25e5bbec77a0ddf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ed703dcc74f6a97f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "daily note/life note.md",
@@ -44,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,8 +177,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "87c908a0592fd365",
+  "active": "f451fd18910cd625",
   "lastOpenFiles": [
+    "work/work notes/未命名看板.md",
+    "daily note/life note.md",
     "work/work notes/未完成工作.md",
     "work/work notes/已完成的工作.md",
     "work/工作看板.md",
@@ -202,8 +188,6 @@
     "work/gyt/optimization/index.md",
     "work/gyt/member/index.md",
     "Day Planners/20221028.md",
-    "Day Planners/20221027.md",
-    "technology/obsidian tips/Templater.md",
-    "technology/obsidian tips/Tasks.md"
+    "Day Planners/20221027.md"
   ]
 }
