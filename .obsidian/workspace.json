@@ -22,17 +22,9 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "c25e5bbec77a0ddf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +169,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "87c908a0592fd365",
+  "active": "f451fd18910cd625",
   "lastOpenFiles": [
     "work/work notes/未命名看板.md",
     "daily note/life note.md",
