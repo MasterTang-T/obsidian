@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9316ee44e09b0e0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technology/pandoc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f4acfc4b7d26031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2022-10-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7e72ab811f17e5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/work notes/work tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2329bcb50a78e23e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technology/pandoc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/work notes/work tasks.md",
+                "file": "work/gyt/member/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/work notes/work tasks.md",
+                "file": "work/gyt/member/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/work notes/work tasks.md"
+                "file": "work/gyt/member/index.md"
               }
             }
           },
@@ -209,15 +160,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d7e72ab811f17e5c",
+  "active": "170b0e40a0dbae39",
   "lastOpenFiles": [
-    "Day Planners/2022-10-31.md",
     "technology/pandoc.md",
-    "work/工作看板.md",
+    "work/gyt/member/index.md",
+    "Day Planners/2022-10-31.md",
     "work/work notes/work tasks.md",
+    "work/工作看板.md",
     "frontend/前端面试题.md",
     "work/work notes/未完成工作.md",
-    "work/gyt/member/index.md",
     "work/gyt/key plan/index.md",
     "work/gyt/optimization/index.md",
     "work/work notes/已完成的工作.md"
