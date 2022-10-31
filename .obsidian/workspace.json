@@ -4,19 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7490af37e3a5cec9",
+        "id": "9594d9442b316ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "245368330834d2bd",
+            "id": "170b0e40a0dbae39",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "work/gyt/member/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "f451fd18910cd625",
+            "id": "9316ee44e09b0e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/work notes/work tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7e72ab811f17e5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -47,7 +62,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -102,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/work notes/work tasks.md",
+                "file": "work/gyt/member/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/work notes/work tasks.md",
+                "file": "work/gyt/member/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/work notes/work tasks.md"
+                "file": "work/gyt/member/index.md"
               }
             }
           },
@@ -155,18 +170,10 @@
             }
           },
           {
-            "id": "b15e54d3262ec1da",
+            "id": "443f24b669ee2e1d",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "a13c7b8e23841fe0",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -177,17 +184,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f451fd18910cd625",
+  "active": "170b0e40a0dbae39",
   "lastOpenFiles": [
-    "daily note/life note.md",
-    "work/work notes/未命名看板.md",
-    "work/work notes/未完成工作.md",
-    "work/work notes/已完成的工作.md",
-    "work/工作看板.md",
-    "work/work notes/work tasks.md",
-    "work/gyt/optimization/index.md",
+    "work/gyt/key plan/index.md",
     "work/gyt/member/index.md",
-    "Day Planners/20221028.md",
-    "Day Planners/20221027.md"
+    "work/gyt/optimization/index.md",
+    "Day Planners/2022-10-31.md",
+    "work/work notes/work tasks.md",
+    "work/work notes/已完成的工作.md",
+    "frontend/前端面试题.md",
+    "work/work notes/未完成工作.md",
+    "work/工作看板.md",
+    "daily note/work note.md"
   ]
 }
