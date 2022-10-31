@@ -35,15 +35,26 @@
             "id": "d7e72ab811f17e5c",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "work/工作看板.md"
+              }
+            }
+          },
+          {
+            "id": "2329bcb50a78e23e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "work/work notes/work tasks.md",
+                "file": "technology/pandoc.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/gyt/member/index.md",
+                "file": "work/work notes/work tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/gyt/member/index.md",
+                "file": "work/work notes/work tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/gyt/member/index.md"
+                "file": "work/work notes/work tasks.md"
               }
             }
           },
@@ -184,17 +195,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "170b0e40a0dbae39",
+  "active": "9316ee44e09b0e0b",
   "lastOpenFiles": [
-    "work/gyt/key plan/index.md",
+    "work/工作看板.md",
+    "work/work notes/work tasks.md",
+    "technology/pandoc.md",
     "work/gyt/member/index.md",
+    "work/gyt/key plan/index.md",
     "work/gyt/optimization/index.md",
     "Day Planners/2022-10-31.md",
-    "work/work notes/work tasks.md",
     "work/work notes/已完成的工作.md",
     "frontend/前端面试题.md",
-    "work/work notes/未完成工作.md",
-    "work/工作看板.md",
-    "daily note/work note.md"
+    "work/work notes/未完成工作.md"
   ]
 }
