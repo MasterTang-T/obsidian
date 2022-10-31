@@ -2,3 +2,6 @@
 ```
 	pandoc -i test.md -o test.docx
 ```
+
+obsdian pandoc-plugin
+pandoc path 要到.exe路径
