@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "170b0e40a0dbae39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2022-11-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6c7fa37727165c65",
             "type": "leaf",
             "state": {
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/gyt/resource/服务器基础操作.md",
+                "file": "work/gyt/resource/开发相关资源.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2022-11-01.md",
+                "file": "work/gyt/resource/开发相关资源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2022-11-01.md",
+                "file": "work/gyt/resource/开发相关资源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2022-11-01.md"
+                "file": "work/gyt/resource/开发相关资源.md"
               }
             }
           },
@@ -220,17 +209,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "170b0e40a0dbae39",
+  "active": "d8182607c41b5162",
   "lastOpenFiles": [
-    "work/gyt/member/上线规范.md",
+    "work/gyt/resource/服务器基础操作.md",
     "work/gyt/member/index.md",
+    "Pasted image 20221101094621.png",
     "Day Planners/2022-11-01.md",
     "work/work notes/work tasks.md",
-    "work/gyt/resource/服务器基础操作.md",
+    "work/gyt/member/上线规范.md",
     "work/gyt/optimization/index.md",
     "work/gyt/optimization/未命名.md",
     "work/gyt/resource/开发相关资源.md",
-    "work/gyt/key plan/index.md",
-    "work/work notes/已完成的工作.md"
+    "work/gyt/key plan/index.md"
   ]
 }
