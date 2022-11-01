@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2022-11-01.md",
+                "file": "work/work notes/work tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2022-11-01.md",
+                "file": "work/work notes/work tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2022-11-01.md",
+                "file": "work/work notes/work tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2022-11-01.md"
+                "file": "work/work notes/work tasks.md"
               }
             }
           },
@@ -199,12 +199,12 @@
   },
   "active": "b92bcd07312fd4d4",
   "lastOpenFiles": [
+    "Day Planners/2022-11-01.md",
     "work/gyt/key plan/index.md",
     "work/gyt/question/index 2022-11-01 13.49.52.excalidraw.md",
     "work/gyt/member/上线规范.md",
     "work/gyt/member/index.md",
     "work/gyt/optimization/index.md",
-    "Day Planners/2022-11-01.md",
     "work/gyt/resource/开发相关资源.md",
     "work/gyt/resource/服务器基础操作.md",
     "Pasted image 20221101094621.png",
