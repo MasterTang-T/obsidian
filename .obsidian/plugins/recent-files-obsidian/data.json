@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-11-01",
+      "path": "Day Planners/2022-11-01.md"
+    },
+    {
+      "basename": "上线规范",
+      "path": "work/gyt/member/上线规范.md"
+    },
+    {
       "basename": "index",
       "path": "work/gyt/member/index.md"
     },
     {
-      "basename": "pandoc",
-      "path": "technology/pandoc.md"
+      "basename": "work tasks",
+      "path": "work/work notes/work tasks.md"
+    },
+    {
+      "basename": "服务器基础操作",
+      "path": "work/gyt/resource/服务器基础操作.md"
+    },
+    {
+      "basename": "index",
+      "path": "work/gyt/optimization/index.md"
+    },
+    {
+      "basename": "开发相关资源",
+      "path": "work/gyt/resource/开发相关资源.md"
+    },
+    {
+      "basename": "index",
+      "path": "work/gyt/key plan/index.md"
+    },
+    {
+      "basename": "已完成的工作",
+      "path": "work/work notes/已完成的工作.md"
     },
     {
       "basename": "2022-10-31",
       "path": "Day Planners/2022-10-31.md"
     },
     {
-      "basename": "work tasks",
-      "path": "work/work notes/work tasks.md"
+      "basename": "pandoc",
+      "path": "technology/pandoc.md"
     },
     {
       "basename": "工作看板",
@@ -27,18 +55,6 @@
     {
       "basename": "未完成工作",
       "path": "work/work notes/未完成工作.md"
-    },
-    {
-      "basename": "index",
-      "path": "work/gyt/key plan/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "work/gyt/optimization/index.md"
-    },
-    {
-      "basename": "已完成的工作",
-      "path": "work/work notes/已完成的工作.md"
     },
     {
       "basename": "20221028",
