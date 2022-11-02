@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/work notes/work tasks.md",
+                "file": "work/gyt/key plan/城市伙伴方案.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8cec568e8d7dc345",
+            "id": "61d1c523c7179285",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/work notes/work tasks.md",
+                "file": "Day Planners/2022-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/work notes/work tasks.md",
+                "file": "Day Planners/2022-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/work notes/work tasks.md"
+                "file": "Day Planners/2022-11-02.md"
               }
             }
           },
@@ -172,17 +173,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6c7fa37727165c65",
+  "active": "61d1c523c7179285",
   "lastOpenFiles": [
+    "work/gyt/key plan/城市伙伴方案.md",
+    "work/gyt/key plan/ERP+WMS+网商平台订单对接.md",
+    "work/gyt/optimization/index.md",
     "Day Planners/2022-11-02.md",
     "work/work notes/work tasks.md",
-    "work/gyt/key plan/index.md",
-    "work/gyt/optimization/index.md",
-    "work/gyt/member/index.md",
     "work/gyt/member/上线规范.md",
-    "work/gyt/resource/服务器基础操作.md",
-    "work/gyt/resource/开发相关资源.md",
+    "frontend/前端面试题.md",
     "Day Planners/2022-11-01.md",
-    "work/gyt/question/index 2022-11-01 13.49.52.excalidraw.md"
+    "work/gyt/member/index.md",
+    "work/gyt/resource/服务器基础操作.md"
   ]
 }
