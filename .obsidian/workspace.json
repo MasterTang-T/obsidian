@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9594d9442b316ccb",
+        "id": "1d5d91f6ad2b4d1e",
         "type": "tabs",
         "children": [
           {
-            "id": "6c7fa37727165c65",
+            "id": "1e45f89409aa6133",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontend/前端面试题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61d1c523c7179285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2022-11-03.md",
+                "file": "work/gyt/question/index 2022-11-01 13.49.52.excalidraw.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2022-11-03.md",
+                "file": "work/gyt/question/index 2022-11-01 13.49.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2022-11-03.md",
+                "file": "work/gyt/question/index 2022-11-01 13.49.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2022-11-03.md"
+                "file": "work/gyt/question/index 2022-11-01 13.49.52.excalidraw.md"
               }
             }
           },
@@ -159,10 +146,18 @@
             }
           },
           {
-            "id": "443f24b669ee2e1d",
+            "id": "b15e54d3262ec1da",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "a13c7b8e23841fe0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -173,17 +168,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "61d1c523c7179285",
+  "active": "1e45f89409aa6133",
   "lastOpenFiles": [
-    "work/gyt/key plan/城市伙伴方案.md",
-    "frontend/前端面试题.md",
-    "work/gyt/member/上线规范.md",
-    "Day Planners/2022-11-03.md",
-    "Day Planners/2022-11-02.md",
     "work/work notes/work tasks.md",
+    "Day Planners/2022-11-03.md",
+    "work/工作看板.md",
+    "work/gyt/key plan/城市伙伴方案.md",
     "work/gyt/key plan/ERP+WMS+网商平台订单对接.md",
-    "work/gyt/optimization/index.md",
-    "Day Planners/2022-11-01.md",
-    "work/gyt/member/index.md"
+    "work/gyt/member/上线规范.md",
+    "work/gyt/member/index.md",
+    "work/gyt/question/index 2022-11-01 13.49.52.excalidraw.md",
+    "java/basic.md",
+    "Day Planners/2022-10-31.md"
   ]
 }
